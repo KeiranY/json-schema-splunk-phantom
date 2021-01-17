@@ -7,7 +7,7 @@ To use, add a reference to `splunk-phantom.json` in your app JSON.
 ```json
 { 
     "$schema": "https://raw.githubusercontent.com/KeiranY/json-schema-splunk-phantom/master/splunk-phantom.json",
-    ...
+    "...continue your app JSON"
 }
 ```
 
@@ -16,6 +16,6 @@ Alternatively use the git.io shortened URL:
 ```json
 { 
     "$schema": "https://git.io/JtkAD",
-    ...
+    "...continue your app JSON"
 }
 ```
